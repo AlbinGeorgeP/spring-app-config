@@ -1,6 +1,5 @@
 eureka:
   instances:
-    hostname: localhost
     preferIpAddress: true
   client:
     fetch-registry: true
